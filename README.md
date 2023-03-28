@@ -1,12 +1,3 @@
-<!-- my hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnuoynawh%2F&count_bg=%239BE98D&title_bg=%234E9406&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- My Github Stats 
-![my github stats](https://github-readme-stats.vercel.app/api?username=gnuoynawh&show_icons=true&theme=vue)-->
-
-<!-- My Most Used Languages -->
-[![my langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuoynawh&langs_count=8&layout=compact)](https://github.com/gnuoynawh)
-
 
 ### 안드로이드 개발을 하고 있습니다.
 
@@ -31,3 +22,17 @@ iOS 와 ReactNative 경험이 있습니다. <br>
 Android, Java, Kotlin, iOS, Swift, ReactNative <br>
 Firebase, Retrofit, GraphQL, SQLite, Room, Glide, Lottie <br>
 Github, GitLab, Jira, Confluence, Zeplin, Figma <br>
+
+<br>
+
+<!-- my hits -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnuoynawh%2F&count_bg=%239BE98D&title_bg=%234E9406&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- My Github Stats -->
+<!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=gnuoynawh&show_icons=true&theme=vue) -->
+
+<!-- My Most Used Languages -->
+[![my langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuoynawh&langs_count=8&layout=compact)](https://github.com/gnuoynawh)
+
+  
+
