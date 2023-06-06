@@ -1,27 +1,32 @@
 
-### 안드로이드 개발을 하고 있습니다.
+### 안드로이드 개발자로 활동하고 있는 프리랜서 입니다.
 
-현재 프리랜서로서 다양한 프로젝트를 경험하고 있습니다. <br>
-개발하는 프로그램에 애정을 갖고, 잘 만들고자 노력합니다.<br>
-단기지만 <b><u>정규직처럼 일하는 프리랜서</b></u>라는 마음으로 일합니다.<br>
-베스트보단 스테디한 앱을 만들고 싶습니다.<br>
+다양한 프로젝트를 경험하며 성장하는 과정을 거치고 있습니다.<br>
+제가 개발하는 서비스에는 제 마음을 담아 애정을 쏟고자 노력하고 있습니다.<br>
+프리랜서로서 일하고 있지만, 저 자신은 정규직으로 일하는 마음가짐으로 업무에 임하고 있습니다.<br>
+모바일과 관련된 모든 분야에 관심을 가지고 있습니다..<br>
 
-### Experience
+### Skils
 
-다수의 하이브리드 앱 경험<br>
-카드사, 은행 등 다수의 금융권 프로젝트 경험<br>
-제휴 SDK, 오픈소스, IOT 등 다양한 기능 활용 경험<br>
-PL, iOS, ReactNative 경험<br>
+Android, Java, Kotlin, iOS, Swift, ReactNative<br>
+SQLite, Room, GraphQL, Apollo<br>
+Firebase, Retrofit, Glide, Lottie<br>
+Github, Jira, Confluence, Zeplin, Figma<br>
+
+### Work Experience
+
+모바일 파트 리딩 경험<br>
+iOS, ReactNative 개발 경험<br>
+이커머스 유형의 하이브리드 앱 운영<br>
+다수의 금융권 SI 프로젝트 경험<br>
+
+**금융** (OCR, 스크래핑, FIDO, 보안키패드, PG결제)<br>
+**LBS** (UWB, GPS, 지오펜스, Goolge Maps, Kakao Maps)<br>
+폴더블 폰, 패킷통신, BLE, 비콘, 바코드, NFC, 구글헬스<br>
 
 - 프리랜서 (2017.11 ~ 현재)
 - 국내 1위 여행업체 (2015.02 ~ 2017.10)
 - 금융권 SI 업체 (2010.12 ~ 2013.06)
-
-### Skill
-
-Android, Java, Kotlin, iOS, Swift, ReactNative <br>
-Firebase, Retrofit, GraphQL, SQLite, Room, Glide, Lottie <br>
-Github, GitLab, Jira, Confluence, Zeplin, Figma <br>
 
 <br>
 
