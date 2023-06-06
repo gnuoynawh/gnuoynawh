@@ -15,18 +15,18 @@ Github, Jira, Confluence, Zeplin, Figma<br>
 
 ### Work Experience
 
-모바일 파트 리딩 경험<br>
-iOS, ReactNative 개발 경험<br>
-이커머스 유형의 하이브리드 앱 운영<br>
-다수의 금융권 SI 프로젝트 경험<br>
+프리랜서 (2017.11 ~ 현재)<br>
+국내 1위 여행업체 (2015.02 ~ 2017.10)<br>
+금융권 SI 업체 (2010.12 ~ 2013.06)<br>
 
-**금융** (OCR, 스크래핑, FIDO, 보안키패드, PG결제)<br>
-**LBS** (UWB, GPS, 지오펜스, Goolge Maps, Kakao Maps)<br>
-폴더블 폰, 패킷통신, BLE, 비콘, 바코드, NFC, 구글헬스<br>
-
-- 프리랜서 (2017.11 ~ 현재)
-- 국내 1위 여행업체 (2015.02 ~ 2017.10)
-- 금융권 SI 업체 (2010.12 ~ 2013.06)
+주요성과
+- 모바일 파트 리딩 경험
+- iOS, ReactNative 개발 경험
+- 이커머스 유형의 하이브리드 앱 운영
+- 다수의 금융권 SI 프로젝트 경험
+- 금융 : OCR, 스크래핑, FIDO, 보안키패드, PG결제
+- LBS : UWB, GPS, 지오펜스, Goolge Maps, Kakao Maps
+- 폴더블 폰, 패킷통신, BLE, 비콘, 바코드, NFC, 구글헬스
 
 <br>
 
